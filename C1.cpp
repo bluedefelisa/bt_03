@@ -2,10 +2,6 @@
 
 using namespace std;
 
-bool seen(int a[], int n)
-{
-
-}
 int main()
 {
     int n, a[1000], b[1000];
